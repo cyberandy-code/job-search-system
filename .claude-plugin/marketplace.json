@@ -1,0 +1,20 @@
+{
+  "name": "job-search-system",
+  "owner": { "name": "Andy Herbin" },
+  "metadata": {
+    "description": "A human-in-the-loop job search system for Claude: scout, decide, tailor, apply, record, learn.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "job-search-system",
+      "source": "./plugins/job-search-system",
+      "description": "Daily job scouting, tailored one-page resumes, an application log with saved postings, and trend analysis. You decide and apply; Claude does the rest.",
+      "version": "0.1.0",
+      "author": { "name": "Andy Herbin" },
+      "license": "MIT",
+      "keywords": ["job search", "resume", "career", "tracker"],
+      "category": "productivity"
+    }
+  ]
+}
