@@ -1,0 +1,8 @@
+{
+  "name": "job-search-system",
+  "version": "0.1.0",
+  "description": "Daily job scouting, tailored one-page resumes, an application log with saved postings, and trend analysis. You decide and apply; Claude does the rest.",
+  "author": { "name": "Andy Herbin" },
+  "license": "MIT",
+  "keywords": ["job search", "resume", "career", "tracker"]
+}
