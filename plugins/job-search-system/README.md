@@ -6,7 +6,7 @@ A human-in-the-loop job search system built as a Claude plugin. Claude scouts ro
 
 ## Why I built it
 
-I'm a former Army intelligence officer and Google AI adoption strategist working in AI governance. My own job search had the usual problems: roles found too late or after they closed, resumes rewritten from scratch each time, and no reliable record of what I sent where. I built this system in Claude to fix that, and to practice what I advise organizations to do with AI: give agents clear rules, keep people at the decision points, and keep a record of what happened.
+I’m a former Army intelligence officer and solutions consultant who works across risk and controls, trust and safety, and responsible AI adoption & governance. My own job search had the usual problems: roles found too late or after they closed, resumes rewritten from scratch each time, and no reliable record of what I sent where. I built this system in Claude to fix that, and to practice what I advise organizations to do with AI: give agents clear rules, keep people at the decision points, and keep a record of what happened.
 
 ## How it works
 
